@@ -3,6 +3,7 @@
 - Age: 19
 - Father Name: Vunnam S R Murthy
 - Email Id: vunnam2001@gmail.com
+- Phone No: 7382501517
 
 ### Educational Details:
 
